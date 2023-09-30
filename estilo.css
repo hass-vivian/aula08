@@ -3,18 +3,18 @@ html{
 }
 body{
     margin: 0 auto;
-    margin-bottom: 7px;
+    margin-bottom: .5em;
 }
 .header{
     display: flex;
     justify-content: space-between;
     background-color:#FFF8C7;
-    padding: 16px;
+    padding: 3px;
     color: black;
     align-items: center;
 }
 .header-logo{
-    margin-left: 60px;
+    margin-left: 20px;
     padding: 90px;
 }
 .header-nav ul{
